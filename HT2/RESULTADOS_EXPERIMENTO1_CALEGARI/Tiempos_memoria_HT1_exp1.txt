@@ -1,0 +1,116 @@
+Tiempos y memoria experimento 1 HT1
+
+L=3, l=2(l>=0)
+----Memoria------
+Maximum possible array:             1917 MB (2.01e+09 bytes) *
+Memory available for all arrays:    1917 MB (2.01e+09 bytes) *
+Memory used by MATLAB:              5914 MB ( 6.2e+09 bytes)
+Physical Memory (RAM):              7886 MB (8.27e+09 bytes)
+
+*  Limited by System Memory (physical + swap file) available.
+
+  HT    size    3x1             24948056  Bytes 
+
+---- Time--------
+time_create_object: 0.28454 segundos
+time_refinement: 0.13066 segundos
+
+time_create_object: 0.28143 segundos
+time_refinement: 0.16181 segundos
+
+time_create_object: 0.28393 segundos
+time_refinement: 0.11661 segundos
+
+time_create_object: 0.29481 segundos
+time_refinement: 0.11504 segundos
+
+time_create_object: 0.29514 segundos
+time_refinement: 0.11841 segundos
+
+-----L=4, l=3--------------------------
+
+time_create_object: 0.93381 segundos
+time_refinement: 0.54947 segundos
+
+time_create_object: 1.0015 segundos
+time_refinement: 0.46593 segundos
+
+time_create_object: 0.97627 segundos
+time_refinement: 0.46301 segundos
+
+time_create_object: 0.93397 segundos
+time_refinement: 0.44285 segundos
+
+time_create_object: 0.98909 segundos
+time_refinement: 0.4739 segundos
+
+Maximum possible array:             1922 MB (2.02e+09 bytes) *
+Memory available for all arrays:    1922 MB (2.02e+09 bytes) *
+Memory used by MATLAB:              6869 MB ( 7.2e+09 bytes)
+Physical Memory (RAM):              7886 MB (8.27e+09 bytes)
+
+*  Limited by System Memory (physical + swap file) available.
+
+  HT   size     4x1         100971792  Bytes
+
+-------L=5, l=4--------------------------------
+time_create_object: 3.4211 segundos
+time_refinement: 2.2496 segundos
+
+time_create_object: 3.3499 segundos
+time_refinement: 2.0307 segundos
+
+time_create_object: 3.2139 segundos
+time_refinement: 2.0216 segundos
+
+time_create_object: 3.22 segundos
+time_refinement: 1.9205 segundos
+
+time_create_object: 3.1611 segundos
+time_refinement: 1.9462 segundos
+
+Maximum possible array:             3463 MB (3.63e+09 bytes) *
+Memory available for all arrays:    3463 MB (3.63e+09 bytes) *
+Memory used by MATLAB:              5283 MB (5.54e+09 bytes)
+Physical Memory (RAM):              7886 MB (8.27e+09 bytes)
+
+*  Limited by System Memory (physical + swap file) available.
+
+  HT  size      5x1             405064960  Bytes  
+
+
+------L=6, l=5-----------------------
+
+time_create_object: 14.558 segundos
+time_refinement: 9.5303 segundos
+
+time_create_object: 13.646 segundos
+time_refinement: 9.2919 segundos
+
+time_create_object: 13.5692 segundos
+time_refinement: 9.4258 segundos
+
+time_create_object: 14.2546 segundos
+time_refinement: 9.7621 segundos
+
+time_create_object: 13.5536 segundos
+time_refinement: 9.5698 segundos
+
+Maximum possible array:             2316 MB (2.43e+09 bytes) *
+Memory available for all arrays:    2316 MB (2.43e+09 bytes) *
+Memory used by MATLAB:              7335 MB (7.69e+09 bytes)
+Physical Memory (RAM):              7886 MB (8.27e+09 bytes)
+
+*  Limited by System Memory (physical + swap file) available.
+
+  HT   size     6x1             1621433768  Bytes
+
+-----L=7, l=6------------------
+Out of memory.
+
+
+
+
+
+
+

@@ -1,0 +1,306 @@
+TIEMPOS POR PARTES Y PROFILE 
+
+*****HT2*****
+---------8x8-------------------------------------------------------------------
+--> t1   profile  1.522
+time_create_object: 0.3383 segundos
+time_create_matrix_vector: 1.0436 segundos
+time_solver_system: 0.021806 segundos
+
+--> t2  profile 0.669 
+time_create_object: 0.060881 segundos
+time_create_matrix_vector: 0.54802 segundos
+time_solver_system: 0.0012473 segundos
+
+--> t3  profile 0.574
+time_create_object: 0.060722 segundos
+time_create_matrix_vector: 0.44655 segundos
+time_solver_system: 0.0009075 segundos
+
+--> t4  profile 	0.555
+time_create_object: 0.044461 segundos
+time_create_matrix_vector: 0.43735 segundos
+time_solver_system: 0.001079 segundos
+
+--> t5 profile   	0.587
+time_create_object: 0.060468 segundos
+time_create_matrix_vector: 0.46106 segundos
+time_solver_system: 0.001459 segundos
+
+--> t6 profile  	0.542
+time_create_object: 0.055794 segundos
+time_create_matrix_vector: 0.43198 segundos
+time_solver_system: 0.0011919 segundos
+
+
+--> t7 profile  	0.521
+time_create_object: 0.048615 segundos
+time_create_matrix_vector: 0.40149 segundos
+time_solver_system: 0.0014373 segundos
+
+--> t8   profile  0.514
+time_create_object: 0.052652 segundos
+time_create_matrix_vector: 0.39059 segundos
+time_solver_system: 0.0011898 segundos
+
+--> t9  profile  	0.539
+time_create_object: 0.065781 segundos
+time_create_matrix_vector: 0.41581 segundos
+time_solver_system: 0.001736 segundos
+
+--> t10 profile  0.581
+time_create_object: 0.064024 segundos
+time_create_matrix_vector: 0.45564 segundos
+time_solver_system: 0.0011703 segundos
+
+
+---------16x6-------------------------------------------------------------------
+--> t1   profile 	1.008 
+time_create_object: 0.11765 segundos
+time_create_matrix_vector: 0.80375 segundos
+time_solver_system: 0.0084837 segundos
+
+--> t2  profile 	0.994
+time_create_object: 0.085361 segundos
+time_create_matrix_vector: 0.85943 segundos
+time_solver_system: 0.0043008 segundos
+
+--> t3  profile 0.904 
+time_create_object: 0.075982 segundos
+time_create_matrix_vector: 0.76438 segundos
+time_solver_system: 0.0035748 segundos
+
+--> t4 profile  0.998
+time_create_object: 0.10445 segundos
+time_create_matrix_vector: 0.82109 segundos
+time_solver_system: 0.0054081 segundos
+
+--> t5 profile 0.977
+time_create_object: 0.090918 segundos
+time_create_matrix_vector: 0.82539 segundos
+time_solver_system: 0.0049527 segundos
+
+--> t6 profile 	0.987
+time_create_object: 0.082985 segundos
+time_create_matrix_vector: 0.82784 segundos
+time_solver_system: 0.0034289 segundos
+
+--> t7 profile  0.963
+time_create_object: 0.094241 segundos
+time_create_matrix_vector: 0.79874 segundos
+time_solver_system: 0.0047655 segundos
+
+--> t8 profile  1.024
+time_create_object: 0.10252 segundos
+time_create_matrix_vector: 0.85222 segundos
+time_solver_system: 0.0048056 segundos
+
+--> t9 profile  1.054 
+time_create_object: 0.10039 segundos
+time_create_matrix_vector: 0.88949 segundos
+time_solver_system: 0.0043943 segundos
+
+--> t10 profile  	0.941
+time_create_object: 0.095303 segundos
+time_create_matrix_vector: 0.77748 segundos
+time_solver_system: 0.0051959 segundos
+
+---------32x32-------------------------------------------------------------------
+--> t1   profile   2.157 
+time_create_object: 0.27412 segundos
+time_create_matrix_vector: 1.8106 segundos
+time_solver_system: 0.014195 segundos
+
+--> t2  profile  	2.234 
+time_create_object: 0.28926 segundos
+time_create_matrix_vector: 1.8675 segundos
+time_solver_system: 0.011424 segundos
+
+--> t3  profile   2.088
+time_create_object: 0.23304 segundos
+time_create_matrix_vector: 1.7866 segundos
+time_solver_system: 0.012653 segundos
+
+--> t4 profile 2.165
+time_create_object: 0.26559 segundos
+time_create_matrix_vector: 1.8156 segundos
+time_solver_system: 0.016269 segundos
+
+--> t5 profile  2.194
+time_create_object: 0.28212 segundos
+time_create_matrix_vector: 1.841 segundos
+time_solver_system: 0.011135 segundos
+
+--> t6 profile  	2.127
+time_create_object: 0.31364 segundos
+time_create_matrix_vector: 1.7291 segundos
+time_solver_system: 0.011065 segundos
+
+--> t7 profile  	2.067
+time_create_object: 0.26175 segundos
+time_create_matrix_vector: 1.7209 segundos
+time_solver_system: 0.013897 segundos
+
+--> t8 profile  2.246
+time_create_object: 0.26137 segundos
+time_create_matrix_vector: 1.908 segundos
+time_solver_system: 0.011479 segundos
+
+--> t9  profile 	2.127
+time_create_object: 0.25081 segundos
+time_create_matrix_vector: 1.8024 segundos
+time_solver_system: 0.013724 segundos
+
+--> t10 profile 2.147
+time_create_object: 0.23704 segundos
+time_create_matrix_vector: 1.8269 segundos
+time_solver_system: 0.013518 segundos
+
+---------64x64-------------------------------------------------------------------
+
+--> t1  profile  	5.618
+time_create_object: 0.91698 segundos
+time_create_matrix_vector: 4.5954 segundos
+time_solver_system: 0.043838 segundos
+
+--> t2  profile  6.105
+time_create_object: 0.88895 segundos
+time_create_matrix_vector: 5.1103 segundos
+time_solver_system: 0.044855 segundos
+
+--> t3 profile  6.616
+time_create_object: 0.96654 segundos
+time_create_matrix_vector: 5.5391 segundos
+time_solver_system: 0.045372 segundos
+
+--> t4  profile 5.764
+time_create_object: 0.86473 segundos
+time_create_matrix_vector: 4.7967 segundos
+time_solver_system: 0.043058 segundos
+
+--> t5  profile  5.604
+time_create_object: 0.83427 segundos
+time_create_matrix_vector: 4.6684 segundos
+time_solver_system: 0.043265 segundos
+
+--> t6 profile   	5.711
+time_create_object: 0.85114 segundos
+time_create_matrix_vector: 4.7601 segundos
+time_solver_system: 0.037938 segundos
+
+--> t7 profile  5.857
+time_create_object: 0.87706 segundos
+time_create_matrix_vector: 4.8743 segundos
+time_solver_system: 0.039175 segundos
+
+--> t8 profile 5.649
+time_create_object: 0.84816 segundos
+time_create_matrix_vector: 4.7 segundos
+time_solver_system: 0.041927 segundos
+
+--> t9  profile 5.799
+time_create_object: 0.85372 segundos
+time_create_matrix_vector: 4.8282 segundos
+time_solver_system: 0.050929 segundos
+
+--> t10 profile 	6.001
+time_create_object: 0.8973 segundos
+time_create_matrix_vector: 4.9968 segundos
+time_solver_system: 0.046623 segundos
+
+---------128x128-------------------------------------------------------------------
+
+--> t1 profile 27.733
+time_create_object: 2.7641 segundos
+time_create_matrix_vector: 24.713 segundos
+time_solver_system: 0.19553 segundos
+
+--> t2 profile 26.510
+time_create_object: 2.8231 segundos
+time_create_matrix_vector: 23.4523 segundos
+time_solver_system: 0.17594 segundos
+
+--> t3 profile 27.478
+time_create_object: 3.0777 segundos
+time_create_matrix_vector: 24.1621 segundos
+time_solver_system: 0.18351 segundos
+
+--> t4 profile 26.640
+time_create_object: 2.7085 segundos
+time_create_matrix_vector: 23.704 segundos
+time_solver_system: 0.17366 segundos
+
+--> t5 profile 	27.079
+time_create_object: 2.7738 segundos
+time_create_matrix_vector: 24.0647 segundos
+time_solver_system: 0.18427 segundos
+
+--> t6 profile  26.579 
+time_create_object: 2.7934 segundos
+time_create_matrix_vector: 23.5461 segundos
+time_solver_system: 0.17736 segundos
+
+--> t7 profile  23.592
+time_create_object: 2.2658 segundos
+time_create_matrix_vector: 21.1348 segundos
+time_solver_system: 0.14602 segundos
+
+--> t8 profile  	23.615
+time_create_object: 2.2202 segundos
+time_create_matrix_vector: 21.2036 segundos
+time_solver_system: 0.13986 segundos
+
+--> t9 profile  23.561
+time_create_object: 2.2745 segundos
+time_create_matrix_vector: 21.1072 segundos
+time_solver_system: 0.13204 segundos
+
+--> t10 profile  23.145
+time_create_object: 2.2577 segundos
+time_create_matrix_vector: 20.7026 segundos
+time_solver_system: 0.13703 segundos
+
+---------256x256-------------------------------------------------------------------
+
+--> t1  profile  	229.087
+time_create_object: 8.8863 segundos
+time_create_matrix_vector: 219.2966 segundos
+time_solver_system: 0.82803 segundos
+
+--> t2 profile  215.664
+time_create_object: 8.5523 segundos
+time_create_matrix_vector: 206.3712 segundos
+time_solver_system: 0.68736 segundos
+
+--> t3 profile 	213.630
+time_create_object: 8.4714 segundos
+time_create_matrix_vector: 204.3663 segundos
+time_solver_system: 0.74679 segundos
+
+--> t4 profile 214.920
+time_create_object: 8.4818 segundos
+time_create_matrix_vector: 204.6804 segundos
+time_solver_system: 0.6454 segundos
+
+--> t5 profile 220.305
+time_create_object: 8.3656 segundos
+time_create_matrix_vector: 211.1841 segundos
+time_solver_system: 0.67931 segundos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+

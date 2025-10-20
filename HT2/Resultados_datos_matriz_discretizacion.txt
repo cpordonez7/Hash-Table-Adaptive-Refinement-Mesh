@@ -1,0 +1,10 @@
+ N 	 posi_Matriz 		 posit_Nulas 		  Posit_NO_nulas 
+16 x 16 & 	577600 &	 572159 &	 5441 
+32 x 32 & 	9241600 &	 9223027 &	 18573 
+
+
+Vector tasa de ocupacion nula 
+0.99058 	0.99799 	
+
+Vector tasa de ocupacion NO nula 
+0.00942 	0.00201 	

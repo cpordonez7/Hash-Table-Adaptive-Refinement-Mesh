@@ -1,0 +1,6 @@
+		 RESULTADOS NUMERICOS POISSON 2D MALLA ALEATORIA TEST 3
+
+ N 	 Norma_2 		 Norma_h 		  Norma_Inf 		 Num Cond 		 Vlr propio max 	 Vlr propio min  		 Simétrica 		 max colisiones
+16 x 16 &	2.0175e-01 &	8.0021e-03 &	3.1355e-02 &	1.5118e+17 
+
+Razon Norma_2 	 Razon Norma_h 	 Razon Norma_Inf 

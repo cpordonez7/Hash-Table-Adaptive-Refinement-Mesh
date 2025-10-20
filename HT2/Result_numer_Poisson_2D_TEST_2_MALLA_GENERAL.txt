@@ -1,0 +1,10 @@
+		 RESULTADOS NUMERICOS POISSON 2D MALLA GENERAL 
+
+ N 	 Norma_2 		 Norma_h 		  Norma_Inf 		 Num Cond 		 Vlr propio max 	 Vlr propio min  		 Simétrica 		 max colisiones
+8 x 8 &	2.3574e+01 &	6.1912e-01 &	3.0133e+00 &	4.5088e+17 
+16 x 16 &	2.4266e-01 &	4.0869e-03 &	1.1972e-02 &	1.4879e+05 
+32 x 32 &	1.3172e-01 &	1.0967e-03 &	3.2896e-03 &	6.3640e+05 
+64 x 64 &	6.8031e-02 &	2.8359e-04 &	8.6593e-04 &	2.6387e+06 
+128 x 128 &	3.4548e-02 &	7.2102e-05 &	2.2164e-04 &	1.0719e+07 
+256 x 256 &	1.7403e-02 &	1.8176e-05 &	5.6048e-05 &	4.3197e+07 
+512 x 512 &	

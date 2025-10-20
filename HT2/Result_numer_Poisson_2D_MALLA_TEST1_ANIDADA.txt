@@ -1,0 +1,10 @@
+		 RESULTADOS NUMERICOS POISSON 2D 
+
+ N 	 Norma_2 		 Norma_h 		  Norma_Inf 		 Num Cond 		 Vlr propio max 	 Vlr propio min  		 Simétrica 		 max colisiones
+8 x 8 &	2.0913e-01 &	1.9671e-02 &	4.1481e-02 &	1.5361e+03 
+16 x 16 &	1.0042e-01 &	4.5393e-03 &	1.0515e-02 &	6.4009e+03 
+32 x 32 &	4.9482e-02 &	1.1068e-03 &	2.5611e-03 &	2.6151e+04 
+
+Razon Norma_2 	 Razon Norma_h 	 Razon Norma_Inf 
+2.0827 &	  4.3335 &	 3.9450 
+2.0294 &	  4.1011 &	 4.1056 

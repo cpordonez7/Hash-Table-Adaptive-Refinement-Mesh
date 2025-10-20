@@ -1,0 +1,51 @@
+------ MEMORIA HT1---------------
+
+***8X8
+Maximum possible array:             3166 MB (3.32e+09 bytes) *
+Memory available for all arrays:    3166 MB (3.32e+09 bytes) *
+Memory used by MATLAB:              4281 MB (4.49e+09 bytes)
+Physical Memory (RAM):              7886 MB (8.27e+09 bytes)
+
+*  Limited by System Memory (physical + swap file) available.
+
+  HT  size     4x1             6311178  Bytes
+
+***16x16 
+Maximum possible array:             3045 MB (3.19e+09 bytes) *
+Memory available for all arrays:    3045 MB (3.19e+09 bytes) *
+Memory used by MATLAB:              4271 MB (4.48e+09 bytes)
+Physical Memory (RAM):              7886 MB (8.27e+09 bytes)
+
+*  Limited by System Memory (physical + swap file) available.
+
+ HT size     4x1             25243464  Byes 
+
+***32x32
+Maximum possible array:             3104 MB (3.26e+09 bytes) *
+Memory available for all arrays:    3104 MB (3.26e+09 bytes) *
+Memory used by MATLAB:              4175 MB (4.38e+09 bytes)
+Physical Memory (RAM):              7886 MB (8.27e+09 bytes)
+
+*  Limited by System Memory (physical + swap file) available.
+
+  HT  size      4x1        100972608  bytes
+
+***64x64
+Maximum possible array:             2899 MB (3.04e+09 bytes) *
+Memory available for all arrays:    2899 MB (3.04e+09 bytes) *
+Memory used by MATLAB:              4421 MB (4.64e+09 bytes)
+Physical Memory (RAM):              7886 MB (8.27e+09 bytes)
+
+*  Limited by System Memory (physical + swap file) available.
+
+  HT   size     4x1      403889184  bytes
+
+***128x128
+Maximum possible array:             2594 MB (2.72e+09 bytes) *
+Memory available for all arrays:    2594 MB (2.72e+09 bytes) *
+Memory used by MATLAB:              6244 MB (6.55e+09 bytes)
+Physical Memory (RAM):              7886 MB (8.27e+09 bytes)
+
+*  Limited by System Memory (physical + swap file) available.
+
+  HT    size   4x1      1615555488  Bytes
