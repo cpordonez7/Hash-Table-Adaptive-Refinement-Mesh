@@ -36,7 +36,6 @@ ObjHT = New_Mesh2D('File_current_mesh_creation.txt',3,grid);
 
 % ObjHT.set_id_celulas_for_level
 % ObjHT.set_enumeration_vector
-
 % cell_1 = ObjHT.getCell_id(1);
 % cell_6 = ObjHT.getCell_id(6);
 % cell_11 = ObjHT.getCell_id(11);
